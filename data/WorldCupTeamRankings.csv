@@ -1,0 +1,462 @@
+Country,Year,FIFA Rank
+Germany,2018,1
+Brazil,2018,2
+Belgium,2018,3
+Portugal,2018,4
+Argentina,2018,5
+Switzerland,2018,6
+France,2018,7
+Poland,2018,8
+Spain,2018,10
+Peru,2018,11
+Denmark,2018,12
+England,2018,12
+Uruguay,2018,14
+Mexico,2018,15
+Colombia,2018,16
+Croatia,2018,20
+Tunisia,2018,21
+Iceland,2018,22
+Costa Rica,2018,23
+Sweden,2018,24
+Senegal,2018,27
+Serbia,2018,34
+Australia,2018,36
+Iran,2018,37
+Morocco,2018,41
+Egypt,2018,45
+Nigeria,2018,48
+Panama,2018,55
+Korea Republic,2018,57
+Japan,2018,61
+Saudi Arabia,2018,67
+Russia,2018,70
+Spain ,2014,1
+Germany ,2014,2
+Brazil ,2014,3
+Portugal ,2014,4
+Argentina ,2014,5
+Switzerland ,2014,6
+Uruguay ,2014,7
+Colombia ,2014,8
+Italy ,2014,9
+England ,2014,10
+Belgium ,2014,11
+Greece ,2014,12
+USA ,2014,13
+Chile ,2014,14
+Holland ,2014,15
+France ,2014,17
+Croatia ,2014,18
+Russia ,2014,19
+Mexico ,2014,20
+Bosnia and Herzegovina ,2014,21
+Algeria ,2014,22
+Ivory Coast ,2014,23
+Ecuador ,2014,26
+Costa Rica ,2014,27
+Honduras ,2014,31
+Ghana ,2014,37
+IR Iran,2014,43
+Iran ,2014,43
+Nigeria ,2014,44
+Japan ,2014,46
+Cameroon ,2014,56
+South Korea ,2014,57
+Australia ,2014,61
+Brazil,2010,1
+Spain,2010,2
+Portugal,2010,3
+Netherlands,2010,4
+Italy,2010,5
+Germany,2010,6
+Argentina,2010,7
+England,2010,8
+France,2010,9
+Greece,2010,13
+USA,2010,14
+Serbia,2010,15
+Uruguay,2010,16
+Mexico,2010,17
+Chile,2010,18
+Cameroon,2010,19
+Australia,2010,20
+Nigeria,2010,21
+Switzerland,2010,24
+Slovenia,2010,25
+Ivory Coast,2010,27
+Algeria,2010,30
+Paraguay,2010,31
+Ghana,2010,32
+Slovakia,2010,34
+Denmark,2010,36
+Honduras,2010,38
+Japan,2010,45
+South Korea,2010,47
+New Zealand,2010,78
+South Africa,2010,83
+Korea DPR,2010,105
+North Korea,2010,105
+Brazil,2006,1
+England,2006,2
+Spain,2006,3
+Germany,2006,4
+Mexico,2006,5
+France,2006,6
+Italy,2006,7
+Argentina,2006,8
+USA,2006,9
+Netherlands,2006,10
+South Korea,2006,11
+Japan,2006,12
+Sweden,2006,13
+Croatia,2006,14
+Paraguay,2006,15
+Czech Republic,2006,16
+Portugal,2006,17
+Costa Rica,2006,18
+Saudi Arabia,2006,19
+Poland,2006,20
+IR Iran,2006,21
+Iran,2006,21
+Tunisia,2006,22
+Ecuador,2006,23
+Serbia and Montenegro,2006,24
+Switzerland,2006,25
+Ukraine,2006,26
+Ivory Coast,2006,27
+Australia,2006,28
+Trinidad and Tobago,2006,29
+Ghana,2006,30
+Angola,2006,31
+Togo,2006,32
+Brazil,2002,1
+Argentina,2002,2
+ Italy,2002,3
+Germany,2002,4
+France,2002,5
+ Spain,2002,6
+ Mexico,2002,7
+ England,2002,8
+Croatia,2002,9
+Denmark,2002,10
+Paraguay,2002,11
+ Sweden,2002,12
+ United States,2002,13
+ Belgium,2002,14
+Portugal,2002,15
+ Republic of Ireland,2002,16
+ Russia,2002,17
+Nigeria,2002,18
+Saudi Arabia,2002,19
+South Africa,2002,20
+ Tunisia,2002,21
+Cameroon,2002,22
+Turkey,2002,23
+Uruguay,2002,24
+ South Korea,2002,25
+ Japan,2002,26
+ Slovenia,2002,27
+ Poland,2002,28
+ Costa Rica,2002,29
+ Ecuador,2002,30
+ China PR,2002,31
+ Senegal,2002,32
+Brazil,1998,1
+Germany,1998,2
+ Mexico,1998,4
+ England,1998,5
+Argentina,1998,6
+Norway,1998,7
+ Yugoslavia,1998,8
+ Chile,1998,9
+ Colombia,1998,10
+ United States,1998,11
+ Japan,1998,12
+Morocco,1998,13
+ Italy,1998,14
+ Spain,1998,15
+France,1998,18
+Croatia,1998,19
+ South Korea,1998,20
+ Tunisia,1998,21
+ Romania,1998,22
+South Africa,1998,24
+Netherlands,1998,25
+Denmark,1998,27
+Paraguay,1998,29
+Jamaica,1998,30
+Austria,1998,31
+Saudi Arabia,1998,34
+Bulgaria,1998,35
+ Belgium,1998,36
+ Scotland,1998,41
+IR Iran,1998,42
+Iran,1998,42
+Cameroon,1998,49
+Nigeria,1998,74
+Germany,1994,1
+Netherlands,1994,2
+Brazil,1994,3
+Italy,1994,4
+Spain,1994,5
+Norway,1994,6
+Romania,1994,7
+Argentina,1994,8
+Sweden,1994,10
+Nigeria,1994,11
+Switzerland,1994,12
+Republic of Ireland,1994,14
+Mexico,1994,16
+Colombia,1994,17
+Russia,1994,19
+United States,1994,23
+Cameroon,1994,24
+Belgium,1994,27
+Morocco,1994,28
+Bulgaria,1994,29
+Greece,1994,31
+Saudi Arabia,1994,34
+South Korea,1994,37
+Bolivia,1994,43
+Netherlands,1990,1
+West Germany,1990,2
+Brazil,1990,3
+Italy,1990,4
+Sweden,1990,5
+England,1990,6
+Soviet Union,1990,7
+Spain,1990,8
+Romania,1990,10
+Yugoslavia,1990,12
+Republic of Ireland,1990,13
+Uruguay,1990,14
+Czechoslovakia,1990,16
+Belgium,1990,17
+Colombia,1990,18
+Argentina,1990,19
+Austria,1990,25
+South Korea,1990,27
+Scotland,1990,29
+Egypt,1990,41
+Cameroon,1990,42
+Costa Rica,1990,49
+United States,1990,51
+United Arab Emirates,1990,77
+France,1986,1
+England,1986,2
+Soviet Union,1986,3
+West Germany,1986,4
+Brazil,1986,5
+Spain,1986,6
+Denmark,1986,7
+Hungary,1986,8
+Italy,1986,9
+Scotland,1986,10
+Argentina,1986,12
+Northern Ireland,1986,15
+Mexico,1986,16
+Bulgaria,1986,17
+Uruguay,1986,19
+Belgium,1986,21
+Paraguay,1986,22
+Portugal,1986,23
+Poland,1986,25
+Canada,1986,35
+Morocco,1986,36
+South Korea,1986,44
+Iraq,1986,47
+Algeria,1986,48
+West Germany,1982,1
+Brazil,1982,2
+Soviet Union,1982,3
+Argentina,1982,4
+England,1982,5
+Poland,1982,6
+Austria,1982,7
+Yugoslavia,1982,8
+Belgium,1982,9
+Czechoslovakia,1982,11
+Italy,1982,13
+Spain,1982,14
+France,1982,15
+Scotland,1982,17
+Hungary,1982,18
+Peru,1982,22
+Chile,1982,23
+Northern Ireland,1982,27
+Algeria,1982,38
+Cameroon,1982,41
+Kuwait,1982,42
+El Salvador,1982,47
+Honduras,1982,49
+New Zealand,1982,50
+West Germany,1978,1
+Netherlands,1978,2
+Brazil,1978,3
+Spain,1978,5
+Scotland,1978,7
+Italy,1978,8
+Poland,1978,9
+Argentina,1978,10
+Hungary,1978,12
+France,1978,14
+Austria,1978,15
+Mexico,1978,21
+Sweden,1978,22
+Iran,1978,24
+Peru,1978,25
+Tunisia,1978,34
+Brazil,1974,1
+West Germany,1974,2
+Italy,1974,3
+Poland,1974,5
+East Germany,1974,6
+Yugoslavia,1974,7
+Argentina,1974,9
+Sweden,1974,13
+Netherlands,1974,16
+Scotland,1974,17
+Bulgaria,1974,18
+Zaire,1974,21
+Chile,1974,23
+Uruguay,1974,27
+Australia,1974,32
+Haiti,1974,46
+England,1970,1
+Brazil,1970,2
+Italy,1970,3
+West Germany,1970,4
+Soviet Union,1970,5
+Czechoslovakia,1970,6
+Uruguay,1970,9
+Sweden,1970,10
+Bulgaria,1970,16
+Romania,1970,19
+Belgium,1970,22
+Peru,1970,30
+Mexico,1970,32
+Morocco,1970,36
+Israel,1970,39
+El Salvador,1970,66
+Brazil,1966,1
+Soviet Union,1966,2
+England,1966,3
+Argentina,1966,4
+Italy,1966,5
+Hungary,1966,6
+West Germany,1966,7
+Spain,1966,9
+Mexico,1966,10
+Uruguay,1966,13
+North Korea,1966,15
+Portugal,1966,16
+Bulgaria,1966,17
+France,1966,23
+Chile,1966,24
+Switzerland,1966,39
+Brazil,1962,1
+Soviet Union,1962,2
+Argentina,1962,3
+Czechoslovakia,1962,4
+Yugoslavia,1962,5
+Spain,1962,6
+Hungary,1962,7
+England,1962,8
+Uruguay,1962,9
+West Germany,1962,10
+Italy,1962,15
+Mexico,1962,16
+Bulgaria,1962,20
+Chile,1962,23
+Switzerland,1962,26
+Colombia,1962,85
+Hungary,1958,1
+Argentina,1958,2
+England,1958,3
+Brazil,1958,4
+West Germany,1958,5
+Austria,1958,7
+Yugoslavia,1958,8
+Czechoslovakia,1958,9
+Soviet Union,1958,10
+France,1958,13
+Scotland,1958,14
+Sweden,1958,17
+Mexico,1958,20
+Paraguay,1958,21
+Northern Ireland,1958,26
+Wales,1958,28
+Hungary,1954,1
+Brazil,1954,3
+England,1954,4
+West Germany,1954,5
+Yugoslavia,1954,6
+Scotland,1954,8
+Italy,1954,9
+Uruguay,1954,10
+Austria,1954,11
+Belgium,1954,14
+France,1954,15
+Czechoslovakia,1954,17
+Mexico,1954,24
+South Korea,1954,26
+Switzerland,1954,27
+Turkey,1954,35
+England,1950,2
+Sweden,1950,3
+Brazil,1950,4
+Italy,1950,5
+Spain,1950,9
+Paraguay,1950,10
+Mexico,1950,12
+Yugoslavia,1950,13
+Uruguay,1950,18
+Switzerland,1950,21
+Chile,1950,33
+United States ,1950,40
+Bolivia,1950,63
+Italy,1938,2
+Hungary,1938,6
+Brazil,1938,7
+Germany,1938,11
+Czechoslovakia,1938,13
+Norway,1938,17
+Netherlands,1938,19
+Switzerland,1938,23
+Sweden,1938,27
+Poland,1938,30
+France,1938,32
+Belgium,1938,37
+Romania,1938,38
+Cuba,1938,41
+Dutch East Indies,1938,46
+Argentina,1934,1
+Austria,1934,2
+Italy,1934,5
+Brazil,1934,6
+Spain,1934,7
+Czechoslovakia,1934,9
+Hungary,1934,11
+Germany,1934,12
+United States,1934,14
+Sweden,1934,17
+Egypt,1934,18
+Netherlands,1934,21
+Romania,1934,26
+France,1934,30
+Switzerland,1934,31
+Belgium,1934,38
+Argentina,1930,1
+Uruguay,1930,3
+Brazil,1930,7
+Paraguay,1930,15
+United States,1930,20
+Belgium,1930,27
+Mexico,1930,30
+Chile,1930,32
+Yugoslavia,1930,33
+Romania,1930,35
+Peru,1930,36
+France ,1930,40
+Bolivia,1930,61
